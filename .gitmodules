@@ -1,0 +1,6 @@
+[submodule "account"]
+	path = account
+	url = https://github.com/ustari28/test-modules-project.git
+[submodule "bill"]
+	path = bill
+	url = https://github.com/ustari28/demo-bill.git
