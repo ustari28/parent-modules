@@ -4,3 +4,6 @@
 [submodule "bill"]
 	path = bill
 	url = https://github.com/ustari28/demo-bill.git
+[submodule "jfrog"]
+	path = jfrog
+	url = https://github.com/ustari28/demo-jfrog.git
